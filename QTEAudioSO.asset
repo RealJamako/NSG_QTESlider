@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d44c5d6befe144468d4ad4c722af78e, type: 3}
+  m_Name: QTEAudioSO
+  m_EditorClassIdentifier: 
+  successAudio: {fileID: 8300000, guid: 4a9a78fe65570d542b282cb316b2a989, type: 3}
+  failedAudio: {fileID: 8300000, guid: 41d7741773f51b940af2590c93e0d579, type: 3}
