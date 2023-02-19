@@ -1,7 +1,7 @@
 # NSG QTESlider
  A simple and easy to integrate QTE mini game for the unity game engine
 
- ![](https://s3.gifyu.com/images/NSGQTESlider-Example.gif)
+<img src="NSGQTESlider-Example.gif?raw=true">
 
 ## How to set up
 - Download the latest package [release here](https://github.com/RealJamako/NSG_QTESlider/blob/main/NSGQTESlider-Example.gif)
