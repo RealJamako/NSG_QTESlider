@@ -4,7 +4,7 @@
  ![](https://s3.gifyu.com/images/NSGQTESlider-Example.gif)
 
 ## How to set up
-- Download the latest package [release here](https://github.com/RealJamako/NSG_QTESlider/releases)
+- Download the latest package [release here](https://github.com/RealJamako/NSG_QTESlider/blob/main/NSGQTESlider-Example.gif)
 - Import into your project
 - Drag both the **QTE Canvas** & **QTE Manager** prefabs into your projects hierarchy
 - On the **QTE Managers** inspector hook up the reference to the QTE Controller that is attached inside of the **QTE Canvas** prefab
